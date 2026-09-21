@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>High Noon — Equipamentos de Poker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rye&family=Special+Elite&family=Vollkorn:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+<script src="config.js"></script>
+</head>
+<body>
+
+<header class="topbar">
+  <a href="#home" class="brand" data-nav="home">
+    <img src="assets/logo-hat.jpg" alt="High Noon" class="brand-icon">
+  </a>
+  <nav class="nav" id="mainNav">
+    <a href="#loja" data-nav="loja">Loja</a>
+    <a href="#personalizar" data-nav="personalizar">Personalizar</a>
+    <a href="#contato" data-nav="contato">Contato</a>
+    <a href="#carrinho" data-nav="carrinho" class="cart-link">
+      Carrinho <span class="cart-badge" id="cartBadge" hidden>0</span>
+    </a>
+    <div class="auth-area" id="authArea"></div>
+  </nav>
+</header>
+
+<div class="door-transition" id="doorTransition" aria-hidden="true">
+  <div class="door-scene" id="doorScene">
+    <img src="assets/door-frame.png" class="door-layer door-frame-img" alt="">
+    <img src="assets/door-left.png" class="door-layer door-leaf door-leaf-left" alt="">
+    <img src="assets/door-right.png" class="door-layer door-leaf door-leaf-right" alt="">
+  </div>
+</div>
+
+<!-- ===================== HOME ===================== -->
+<section id="home" class="page">
+  <main class="hero">
+    <img src="assets/saloon-door.jpg" alt="Porta de saloon" class="hero-door">
+
+    <h1 class="hero-title">High Noon</h1>
+
+    <div class="hero-rule"></div>
+
+    <p class="hero-tagline">Equipamentos de poker forjados com a bravura do velho oeste</p>
+
+    <a href="#loja" class="hero-cta" data-nav="loja">Entre no Salão</a>
+  </main>
+</section>
+
+<!-- ===================== LOJA ===================== -->
+<section id="loja" class="page" hidden>
+
+  <main class="shop">
+
+    <div class="shop-head">
+      <h1 class="shop-title">Loja</h1>
+      <div class="shop-rule"></div>
+      <p class="shop-sub">Equipamentos de poker forjados no velho oeste</p>
+    </div>
+
+    <div class="shop-filters">
+      <button class="filter active" data-filter="todos">Todos</button>
+      <button class="filter" data-filter="cartas">Cartas</button>
+      <button class="filter" data-filter="fichas">Fichas</button>
+      <button class="filter" data-filter="mesas">Mesas</button>
+      <button class="filter" data-filter="acessorios">Acessórios</button>
+    </div>
+
+    <div class="product-grid" id="productGrid">
+      <p class="shop-loading" id="shopLoading">Carregando produtos...</p>
+    </div>
+
+  </main>
+</section>
+
+<!-- ===================== PRODUTO ===================== -->
+<section id="produto" class="page" hidden>
+  <main class="produto-page" id="produtoContent"></main>
+</section>
+
+<!-- ===================== PERSONALIZAR ===================== -->
+<section id="personalizar" class="page" hidden>
+  <main class="shop custom-page">
+
+    <div class="shop-head">
+      <h1 class="shop-title">Personalizar</h1>
+      <div class="shop-rule"></div>
+      <p class="shop-sub">Encomendas sob medida — a marca registrada da High Noon</p>
+    </div>
+
+    <div id="customContent"></div>
+
+  </main>
+</section>
+
+<!-- ===================== CARRINHO ===================== -->
+<section id="carrinho" class="page" hidden>
+  <main class="cart">
+
+    <div class="shop-head">
+      <h1 class="shop-title">Carrinho</h1>
+      <div class="shop-rule"></div>
+      <p class="shop-sub" id="cartSub">Seus itens selecionados</p>
+    </div>
+
+    <div class="cart-body" id="cartBody">
+      <p class="shop-loading">Carregando...</p>
+    </div>
+
+  </main>
+</section>
+
+<!-- ===================== CONTATO ===================== -->
+<section id="contato" class="page" hidden>
+  <main class="placeholder-page">
+    <h1 class="placeholder-title">Contato</h1>
+    <p class="placeholder-text">Em breve: formas de falar com a High Noon.</p>
+  </main>
+</section>
+
+<footer class="footer">
+  <span>Est. 1881</span>
+  <span>Preto &amp; Branco</span>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

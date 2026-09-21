@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+tela de admin highnoon
+</name>
+</assembly>
+<members>
+<member name="T:tela_de_admin_highnoon.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:tela_de_admin_highnoon.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:tela_de_admin_highnoon.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:tela_de_admin_highnoon.My.Resources.Resources.ChatGPT_Image_8_de_set__de_2026__11_16_33">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:tela_de_admin_highnoon.My.Resources.Resources.ChatGPT_Image_8_de_set1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:tela_de_admin_highnoon.My.Resources.Resources.ChatGPT_Image_8_de_set2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:tela_de_admin_highnoon.My.Resources.Resources.ChatGPT_Image_8_de_set3">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:tela_de_admin_highnoon.My.Resources.Resources.ChatGPT_Image_8_de_set4">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:tela_de_admin_highnoon.My.Resources.Resources.conjunto_iconos_vector_naipes_juego_apuestas_iconos_contorno_negro_cuatro_cartas_820464_1494">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:tela_de_admin_highnoon.My.Resources.Resources.conjunto_iconos_vector_naipes_juego_apuestas_iconos_contorno_negro_cuatro_cartas_820464_1494_removebg_preview">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:tela_de_admin_highnoon.My.Resources.Resources.conjunto_iconos_vector_naipes_juego_apuestas_iconos_contorno_negro_cuatro_cartas_820464_1494_removebg_preview__1_">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

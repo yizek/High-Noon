@@ -1,0 +1,100 @@
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.exe.config
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.exe
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.pdb
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.xml
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.vbproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela_de_admin_highnoon.Form1.resources
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela_de_admin_highnoon.Resources.resources
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.vbproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.exe
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.xml
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.pdb
+C:\Users\Aluno\source\repos\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.exe.config
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.exe.config
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.exe
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.pdb
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Npgsql.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Buffers.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Collections.Immutable.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Memory.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Numerics.Vectors.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Text.Encodings.Web.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Text.Json.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Threading.Channels.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.ValueTuple.dll
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Npgsql.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Buffers.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Collections.Immutable.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Memory.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Numerics.Vectors.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Text.Encodings.Web.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Text.Json.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Threading.Channels.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.ValueTuple.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.vbproj.AssemblyReference.cache
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela_de_admin_highnoon.Form1.resources
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela_de_admin_highnoon.Resources.resources
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.vbproj.GenerateResource.cache
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.vbproj.CoreCompileInputs.cache
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de .B5091DA6.Up2Date
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.exe
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.xml
+D:\High Noon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.pdb
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.vbproj.AssemblyReference.cache
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela_de_admin_highnoon.Form1.resources
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela_de_admin_highnoon.Resources.resources
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.vbproj.GenerateResource.cache
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.vbproj.CoreCompileInputs.cache
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.exe.config
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.exe
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.pdb
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\tela de admin highnoon.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Npgsql.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Buffers.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Collections.Immutable.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Memory.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Numerics.Vectors.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Text.Encodings.Web.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Text.Json.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Threading.Channels.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.ValueTuple.dll
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\Npgsql.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Buffers.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Collections.Immutable.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Memory.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Numerics.Vectors.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Text.Encodings.Web.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Text.Json.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Threading.Channels.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\bin\Debug\System.ValueTuple.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de .B5091DA6.Up2Date
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.exe
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.xml
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.pdb
+D:\High Noon\HighNoon\tela de admin highnoon\tela de admin highnoon\obj\Debug\tela de admin highnoon.exe.config
