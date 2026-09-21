@@ -831,7 +831,7 @@ body {
   font-size: 0.75rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  padding: 0 20px;
+  padding: 12px 20px;
   cursor: pointer;
   transition: background 0.2s ease, color 0.2s ease;
 }
@@ -1193,23 +1193,154 @@ body {
 
 /* ---------- Responsive ---------- */
 
+/* Tablet: aperta um pouco os respiros gerais */
+@media (max-width: 900px) {
+  .shop,
+  .cart,
+  .produto-page,
+  .custom-page {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+/* Celular */
 @media (max-width: 640px) {
   .topbar {
-    padding: 20px 24px;
+    padding: 18px 20px;
     flex-direction: column;
-    gap: 16px;
+    gap: 14px;
+  }
+
+  .brand-icon {
+    height: 42px;
   }
 
   .nav {
-    gap: 24px;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px 20px;
+  }
+
+  .nav a {
+    font-size: 0.72rem;
   }
 
   .footer {
-    padding: 0 24px 24px;
+    padding: 0 20px 24px;
+    flex-direction: column;
+    gap: 6px;
+    text-align: center;
   }
 
   .hero-door {
-    width: 160px;
+    width: 200px;
+  }
+
+  .shop,
+  .cart,
+  .produto-page,
+  .custom-page {
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .shop-filters {
+    gap: 16px 22px;
+    margin-bottom: 36px;
+  }
+
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+
+  /* Item do carrinho: de 4 colunas numa linha só pra um layout empilhado */
+  .cart-item {
+    grid-template-columns: 60px 1fr;
+    grid-template-areas:
+      "thumb info"
+      "qty   qty"
+      "remove remove";
+    row-gap: 12px;
+  }
+
+  .cart-item-thumb {
+    grid-area: thumb;
+    width: 60px;
+    height: 60px;
+  }
+
+  .cart-item-info {
+    grid-area: info;
+  }
+
+  .cart-qty {
+    grid-area: qty;
+  }
+
+  .cart-item-remove {
+    grid-area: remove;
+    justify-self: start;
+  }
+
+  .cart-summary {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 14px;
+  }
+
+  .cart-checkout {
+    width: 100%;
+  }
+
+  /* Produto: empilha o seletor de quantidade e o botão de adicionar */
+  .produto-qty-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
+
+  .cart-qty {
+    justify-content: center;
+  }
+
+  .produto-add-btn {
+    width: 100%;
+  }
+
+  .frete-form {
+    flex-direction: column;
+  }
+
+  .frete-btn {
+    width: 100%;
+  }
+
+  .custom-submit {
+    align-self: stretch;
+    text-align: center;
+  }
+
+  .custom-order-top {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+}
+
+/* Telas bem pequenas */
+@media (max-width: 380px) {
+  .nav {
+    gap: 10px 14px;
+  }
+
+  .nav a {
+    font-size: 0.68rem;
+  }
+
+  .hero-title {
+    font-size: 1.6rem;
   }
 }
 

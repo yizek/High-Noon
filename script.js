@@ -369,7 +369,7 @@ async function loadCart() {
           : `<span class="thumb-mark">${CATEGORY_MARKS[item.products.category] || '&#9670;'}</span>`
         }
       </div>
-      <div>
+      <div class="cart-item-info">
         <div class="cart-item-name">${item.products.name}</div>
         <div class="cart-item-price">${formatPrice(item.products.price)} cada</div>
       </div>
